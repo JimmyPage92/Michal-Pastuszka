@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JimmyPage92
+- 👋 Hi, I’m Michael
 - 👀 I’m interested in football,Chernobyl disaster, history of World War II
 - 🌱 I’m currently learning programming in Python 
 - 💞️ I’m looking to collaborate on ...
