@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michael
-- 👀 I’m interested in football,Chernobyl disaster, history of World War II
-- 🌱 I’m currently learning programming in Python, Flask, REST, Docker
+- 👀 I’m interested in football, Chernobyl disaster, history of World War II, programming in Python
+- 🌱 I’m currently learning programming in Python, Flask, REST, Docker, FastApi
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me my number phone is 505092517
 
